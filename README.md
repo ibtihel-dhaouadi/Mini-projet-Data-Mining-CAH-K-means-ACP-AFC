@@ -1,4 +1,4 @@
-<h1 align="left">📊 Data Mining Project: Segmentation d'Appareils Photo Numériques (ACP - CAH - K-means)</h1>
+<h1 align="left">Data Mining Project: Analyse des données des appareils photo numériques 📸 (ACP - CAH - K-means)</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Ce projet s'inscrit dans une analyse exploratoire et descriptive des caractéristiques techniques et commerciales de différents modèles d'appareils photo numériques. Le dataset utilisé regroupe des informations détaillées sur les modèles produits, avec des variables techniques comme :</p>
+<p align="left">Ce projet s'inscrit dans une analyse exploratoire et descriptive des caractéristiques techniques et commerciales de différents modèles d'appareils photo numériques. Le dataset utilisé regroupe des informations détaillées sur les modèles produits, avec des variables techniques comme :<br><br>- Model : Nom du modèle de l'appareil photo.<br>- Release date : Année de sortie du modèle.<br>- Max resolution / Low resolution : Résolutions maximale et minimale prises en charge par l'appareil photo (en pixels).<br>- Effective pixels : Nombre effectif de pixels capturés par le capteur (en mégapixels).<br>- Zoom wide (W) / Zoom tele (T) : Longueur focale (en mm) aux extrémités grand-angle (W) et téléobjectif (T).<br>- Normal focus range : Distance minimale à laquelle l'appareil peut effectuer une mise au point normale (en mm).<br>- Macro focus range : Distance minimale pour la mise au point en mode macro (en mm).<br>- Storage included : Capacité de stockage intégrée (en Mo).<br>- Weight (inc. batteries) : Poids total de l'appareil avec les batteries incluses (en grammes).<br>- Dimensions : Dimensions physiques de l'appareil photo (en mm).<br>- Price : Prix du modèle (en dollars).</p>
 
 ###
 
@@ -28,11 +28,11 @@
 
 ###
 
-<h4 align="left">✅Analyse exploratoire des données : Étude des caractéristiques des modèles</h4>
+<h4 align="left">✅Analyse exploratoire des données : Nettoyage et visualisation pour comprendre les variables.</h4>
 
 ###
 
-<h4 align="left">✅ Réduction de dimension avec l'ACP : Identification des axes principaux expliquant la variabilité des données.</h4>
+<h4 align="left">✅Analyse en Composantes Principales (ACP) : Réduction de dimension pour visualiser les données et mettre en évidence les relations entre les variables.</h4>
 
 ###
 
